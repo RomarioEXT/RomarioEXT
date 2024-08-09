@@ -14,4 +14,4 @@ I’m always excited to connect with fellow blockchain enthusiasts, developers, 
 
 - 𝕏: [@RomarioEXT](https://x.com/RomarioEXT)
 - Discord: [@romamario](https://discord.com/users/981574429765173328)
-- Website: https://www.notion.so/roma-mario/About-Me-3f6cf3106f5b4bf783efed48e47a5cd9
+- Website: https://roma-mario.notion.site/About-Me-3f6cf3106f5b4bf783efed48e47a5cd9
